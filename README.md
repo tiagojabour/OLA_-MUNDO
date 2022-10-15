@@ -1,2 +1,2 @@
-# OLA_ MUNDO
- REPOSITORIO 2
+#Olá, Mundo!
+Repositório criado durante uma aula ao vivo.
